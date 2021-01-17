@@ -100,3 +100,11 @@ button {
 button:hover {
     background-color: #000000;
 }
+
+.container {
+    background-color: #282C30;
+    box-shadow: -3px 3px 12px 2px #000000;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+}
